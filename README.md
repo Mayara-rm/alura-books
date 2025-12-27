@@ -15,3 +15,6 @@ Projeto desenvolvido durante o curso “JavaScript: métodos de array” da Alur
 - Ordenamos os livros da aplicação por preço.
 - Melhoramos a experiência do usuário da aplicação, aplicando uma opacidade nos livros indisponíveis.
 - Funcionamento do método reduce, onde faz a redução de todo array.
+
+🚀 Acesse o projeto online:
+🔗 https://mayara-rm.github.io/alura-books/
