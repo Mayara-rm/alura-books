@@ -17,4 +17,5 @@ Projeto desenvolvido durante o curso “JavaScript: métodos de array” da Alur
 - Funcionamento do método reduce, onde faz a redução de todo array.
 
 🚀 Acesse o projeto online:
+
 🔗 https://mayara-rm.github.io/alura-books/
